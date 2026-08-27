@@ -1,0 +1,6 @@
+date,scenario,change_id,setting,value,avg_fps,low_1pct,max_fps,gpu_util_pct,cpu_util_pct,notes
+2026-08-13,A,T-001,baseline,run1-full-60s,116.7,49.6,397.6,,,"6996 frames. CONTAMINATED - contains a regime change at t=30s. Do not use for comparison."
+2026-08-13,A,T-001,baseline_first30s,run1-pre-change,172.5,94.1,397.6,,,"Light scene. CPUBusy 4.9-6.3ms. Probably lobby/menu."
+2026-08-13,A,T-001,baseline_last30s,run1-post-change,60.8,46.9,,,,"Pinned at exactly 60.0 fps. CPUBusy 16.4ms ~= 16.67ms frame budget. Background/unfocused frame cap - NOT a hardware throttle. Disproved by run2."
+2026-08-13,A,T-001,baseline2,run2-full-120s,117.8,71.8,367.2,37,,"*** AUTHORITATIVE BASELINE *** 14128 frames, 120s, in-match. CPUBusy 8.14 GPUBusy 3.86. cpuPerf 135-140pct for the whole run - zero turbo decay. GPU 68-69C / 21.4W of 50W / 1000-1307MHz of 1530."
+2026-08-13,B,,,,,,,,,"placeholder - build-fight scenario not yet run"

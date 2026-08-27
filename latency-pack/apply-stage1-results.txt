@@ -1,0 +1,25 @@
+﻿STAGE 1 APPLY - 2026-08-16 15:24:27
+
+--- 1. Power plan -> Balanced (T-000k kept state; High performance was unexplained drift) ---
+  active scheme now: Power Scheme GUID: 381b4222-f694-41f0-9685-ff5bb260df2e  (Balanced)
+
+--- 2. Win32PrioritySeparation 38 -> 36 (T-032 arm; FrameSync measured best lows at 36) ---
+  Win32PrioritySeparation now: 36
+
+--- 3. Restore FN-UploadShaper throttle (10 Mbps; value was missing = shaper dead) ---
+  FN-UploadShaper throttle (bits/s): 
+  registry Throttle Rate (bytes/s, expect 1250000): 
+
+--- 4. Verify UDP Receive Offload still disabled (T-000k) ---
+  Querying active state...
+  
+  UDP Global Parameters
+  ----------------------------------------------
+  Receive Offload State               : disabled 
+  Send Offload State                  : enabled 
+  
+
+--- 5. GPU state after plan switch (expect enforced 50W, P0) ---
+  50.00 W, 23.00 W, 1530 MHz, 81, P0
+
+STAGE 1 COMPLETE

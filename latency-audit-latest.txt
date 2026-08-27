@@ -1,0 +1,95 @@
+﻿Elevated: True
+User: DESKTOP-74JD88I\LENOVO
+Time: 2026-08-16 15:14:49
+
+=== GameUserSettings.ini (live) ===
+Config exists: True
+  FullscreenMode=0
+  FrontendFrameRateLimit=120
+  LastPlayedIsland="{\"LinkId\":\"7835-3901-1999\",\"Session\":{\"iD\":\"\",\"joinInfo\":{\"joinability\":\"CanNotBeJoinedOrWatched\",\"sessionKey\":\"\"}},\"MatchmakingSettingsV1\":{\"world\":{\"iD\":\"\",\"ownerId\":\"INVALID\",\"name\":\"\",\"bIsJoinable\":false},\"productModes\":[],\"privacy\":\"Private\",\"regionId\":\"NAW\"}}"
+  bUseVSync=False
+  ResolutionSizeX=1920
+  ResolutionSizeY=1080
+  LastUserConfirmedResolutionSizeX=1920
+  LastUserConfirmedResolutionSizeY=1080
+  LastConfirmedFullscreenMode=0
+  PreferredFullscreenMode=0
+  AudioQualityLevel=1
+  LastConfirmedAudioQualityLevel=1
+  FrameRateLimit=0.000000
+  DesiredScreenWidth=1536
+  DesiredScreenHeight=864
+  LastUserConfirmedDesiredScreenWidth=1536
+  LastUserConfirmedDesiredScreenHeight=864
+  RecentSelections="(Island={\"LinkId\":\"7835-3901-1999\",\"Session\":{\"iD\":\"\",\"joinInfo\":{\"joinability\":\"CanNotBeJoinedOrWatched\",\"sessionKey\":\"\"}},\"MatchmakingSettingsV1\":{\"world\":{\"iD\":\"\",\"ownerId\":\"INVALID\",\"name\":\"\",\"bIsJoinable\":false},\"productModes\":[],\"privacy\":\"Private\",\"regionId\":\"NAW\"}},Timestamp=1786854373,bUsingGracefulUpgrade=True,MatchmakingId=\"3C443F014512D755A8778782803F3A12\")"
+  RecentSelections="(Island={\"LinkId\":\"0893-9632-4745\",\"Session\":{\"iD\":\"\",\"joinInfo\":{\"joinability\":\"CanNotBeJoinedOrWatched\",\"sessionKey\":\"\"}},\"MatchmakingSettingsV1\":{\"world\":{\"iD\":\"\",\"ownerId\":\"INVALID\",\"name\":\"\",\"bIsJoinable\":false},\"productModes\":[],\"privacy\":\"Fill\",\"regionId\":\"NAW\"}},Timestamp=1786706863,bUsingGracefulUpgrade=True,MatchmakingId=\"9BEEC89F42471013F43DE9B2A4921943\")"
+  RecentSelections="(Island={\"LinkId\":\"0435-0111-2493\",\"Session\":{\"iD\":\"\",\"joinInfo\":{\"joinability\":\"CanNotBeJoinedOrWatched\",\"sessionKey\":\"\"}},\"MatchmakingSettingsV1\":{\"world\":{\"iD\":\"\",\"ownerId\":\"INVALID\",\"name\":\"\",\"bIsJoinable\":false},\"productModes\":[],\"privacy\":\"Fill\",\"regionId\":\"NAW\"}},Timestamp=1786706792,bUsingGracefulUpgrade=True,MatchmakingId=\"61864DAE436F4B300DC92F824D0608FB\")"
+  RecentSelections="(Island={\"LinkId\":\"6570-5231-1418\",\"Session\":{\"iD\":\"\",\"joinInfo\":{\"joinability\":\"CanNotBeJoinedOrWatched\",\"sessionKey\":\"\"}},\"MatchmakingSettingsV1\":{\"world\":{\"iD\":\"\",\"ownerId\":\"INVALID\",\"name\":\"\",\"bIsJoinable\":false},\"productModes\":[],\"privacy\":\"Fill\",\"regionId\":\"NAW\"}},Timestamp=1786700020,bUsingGracefulUpgrade=True,MatchmakingId=\"F72151CC4C6E11244DD973A91F8EE3E8\")"
+  RecentSelections="(Island={\"LinkId\":\"6462-6469-4435\",\"Session\":{\"iD\":\"\",\"joinInfo\":{\"joinability\":\"CanNotBeJoinedOrWatched\",\"sessionKey\":\"\"}},\"MatchmakingSettingsV1\":{\"world\":{\"iD\":\"\",\"ownerId\":\"INVALID\",\"name\":\"\",\"bIsJoinable\":false},\"productModes\":[],\"privacy\":\"Fill\",\"regionId\":\"NAW\"}},Timestamp=1786688397,bUsingGracefulUpgrade=True,MatchmakingId=\"2A715E744C112091C61185A1AF920A24\")"
+  RecentSelections="(Island={\"LinkId\":\"8064-7152-2934\",\"Session\":{\"iD\":\"\",\"joinInfo\":{\"joinability\":\"CanNotBeJoinedOrWatched\",\"sessionKey\":\"\"}},\"MatchmakingSettingsV1\":{\"world\":{\"iD\":\"\",\"ownerId\":\"INVALID\",\"name\":\"\",\"bIsJoinable\":false},\"productModes\":[],\"privacy\":\"Fill\",\"regionId\":\"NAW\"}},Timestamp=1786650504,bUsingGracefulUpgrade=True,MatchmakingId=\"1BA1A1BE4E1E48261F7846B1B502C620\")"
+  RecentSelections="(Island={\"LinkId\":\"0148-0322-5437\",\"Session\":{\"iD\":\"\",\"joinInfo\":{\"joinability\":\"CanNotBeJoinedOrWatched\",\"sessionKey\":\"\"}},\"MatchmakingSettingsV1\":{\"world\":{\"iD\":\"\",\"ownerId\":\"INVALID\",\"name\":\"\",\"bIsJoinable\":false},\"productModes\":[],\"privacy\":\"Fill\",\"regionId\":\"NAC\"}},Timestamp=1786643184,bUsingGracefulUpgrade=True,MatchmakingId=\"66CDFC9844A7B50CF53F439F44F9E65E\")"
+  PreferredFeatureLevel=es31
+
+=== Power plan ===
+  Power Scheme GUID: 8c5e7fda-e8bf-4a96-9a85-a6e23a8c635c  (High performance)
+
+=== Registry checks ===
+  Win32PrioritySeparation: 38 (stock 38)
+  NetworkThrottlingIndex: 4294967295 (stock 10, disabled 4294967295)
+  SystemResponsiveness: 0 (stock 20)
+  GameDVR_Enabled (HKCU): 0 (want 0)
+  AppCaptureEnabled: 0 (want 0)
+  GameBar: AllowAutoGameMode=1 AutoGameModeEnabled=1
+  HwSchMode (HAGS): 2 (absent/1=off, 2=on)
+
+=== QoS policies ===
+  FN-UploadShaper | app= | throttle= | dscp=-1
+
+=== netsh globals ===
+  UDP:
+    Querying active state...
+    
+    UDP Global Parameters
+    ----------------------------------------------
+    Receive Offload State               : disabled 
+    Send Offload State                  : enabled 
+    
+
+=== Wi-Fi adapter key properties ===
+  Packet Coalescing = Enabled
+  Channel Width for 2.4GHz = Auto
+  Channel Width for 5GHz = Auto
+  Fat Channel Intolerant = Disabled
+  Transmit Power = 5. Highest
+  MIMO Power Save Mode = Auto SMPS
+  Roaming Aggressiveness = 3. Medium
+  Preferred Band = 1. No Preference
+  Throughput Booster = Disabled
+  U-APSD support = Disabled
+
+=== Wi-Fi link ===
+  State                  : connected
+  SSID                   : Wiifii
+  AP BSSID               : a8:97:cd:2f:9c:26
+  Channel                : 157
+  Radio type             : 802.11ac
+  Receive rate (Mbps)    : 520
+  Transmit rate (Mbps)   : 650
+  Signal                 : 85%
+
+=== Suspect processes (input path / CPU contention) ===
+  RUNNING: ProcessLasso pid=7488 cpuSec=701 wsMB=59
+  RUNNING: ProcessGovernor pid=5268 cpuSec=309.6 wsMB=22
+  RUNNING: Notion pid=7632 cpuSec=8.4 wsMB=396
+  RUNNING: Notion pid=8216 cpuSec=249.9 wsMB=718
+  RUNNING: Notion pid=15728 cpuSec=62.2 wsMB=270
+  RUNNING: Notion pid=17272 cpuSec=64.3 wsMB=333
+  RUNNING: Notion pid=21552 cpuSec=20.6 wsMB=511
+  RUNNING: Notion pid=23612 cpuSec=13.5 wsMB=277
+  RUNNING: Notion pid=33992 cpuSec=358.8 wsMB=364
+  RUNNING: Notion pid=34400 cpuSec=11.6 wsMB=252
+  RUNNING: cloudflared pid=30296 cpuSec=2.3 wsMB=44
+  RUNNING: FortniteClient-Win64-Shipping pid=15840 cpuSec=40991.6 wsMB=4091
+
+=== Fortnite running? ===
+  Fortnite running: True

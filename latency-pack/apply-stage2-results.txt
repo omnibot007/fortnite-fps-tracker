@@ -1,0 +1,21 @@
+﻿STAGE 2 APPLY (Wi-Fi adapter - brief re-association expected) - 2026-08-16 15:25:59
+
+--- MIMO Power Save Mode: Auto SMPS -> No SMPS ---
+  set OK
+--- Packet Coalescing: Enabled -> Disabled ---
+  set OK
+--- Roaming Aggressiveness: 3. Medium -> 1. Lowest ---
+  set OK
+--- Preferred Band: 1. No Preference -> 3. Prefer 5GHz band ---
+  set OK
+
+--- Verification read-back ---
+  Packet Coalescing = Disabled
+  MIMO Power Save Mode = No SMPS
+  Roaming Aggressiveness = 1. Lowest
+  Preferred Band = 3. Prefer 5GHz band
+
+--- Link state ---
+  State                  : disconnected
+
+STAGE 2 COMPLETE

@@ -1,0 +1,7 @@
+﻿QOS SHAPER FIX - 2026-08-16 15:25:26
+old policy removed (if present)
+policy recreated with -Default -ThrottleRateActionBitsPerSecond 10000000
+registry Throttle Rate (bytes/s, expect 1250000): 
+--- live policy listing ---
+  FN-UploadShaper | app= | throttleBitsPerSec= | dscp=-1
+DONE
